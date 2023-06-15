@@ -118,3 +118,4 @@ if x is None:
 
 ```
 
+# tech241_python_variables
